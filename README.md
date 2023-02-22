@@ -1,32 +1,23 @@
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Fullstack-WEB-Blockchain-Developer&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p>
-
- ![](./profile-3d-contrib/profile-night-view.svg)
-<!-- 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mern-dev-full&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p> -->
 
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
   <br />
   
-  Hi, Dear.
+ Hi, Dear.
 
  I am very happy to have an opportunity to introduce myself.
  
  Goal-driven and accomplished full stack developer with over 7 years proven track record of delivering exceptional results in Frontend(react.js, vue.js) and Backend(node.js, python).
 
 
-I have done several complex projects and provide continuous maintenance support.
+ I have done several complex projects and provide continuous maintenance support.
 
-My goal has always been to provide reliable and efficients to my clients and so far I have been quite successful.
+ My goal has always been to provide reliable and efficients to my clients and so far I have been quite successful.
 
 
- <div>
+<!--  <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
-</div>
+</div> -->
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
