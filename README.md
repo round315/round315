@@ -1,10 +1,8 @@
 
-### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello, Dear <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
   <br />
   
- Hi, Dear.
-
  I am very happy to have an opportunity to introduce myself.
  
  Goal-driven and accomplished full stack developer with over 7 years proven track record of delivering exceptional results in Frontend(react.js, vue.js) and Backend(node.js, python).
