@@ -12,17 +12,17 @@
 
   <br />
   
-  Hi, I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+  Hi, Dear.
 
-I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js |
+ I am very happy to have an opportunity to introduce myself.
+ 
+ Goal-driven and accomplished full stack developer with over 7 years proven track record of delivering exceptional results in Frontend(react.js, vue.js) and Backend(node.js, python).
 
-My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
-I have developing sites using React, Nextjs, Laravel, WordPress, and Python/Django, and much more.
+I have done several complex projects and provide continuous maintenance support.
 
-Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, and Vue.
+My goal has always been to provide reliable and efficients to my clients and so far I have been quite successful.
 
-I had already built so many Websites with the mentioned skill.
 
  <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
